@@ -137,8 +137,8 @@ Recommendation: Conduct targeted digital ad campaigns and localized brand partne
 Cleanse & Standardize Master Data: Duplicate city records (e.g., Bangalore vs. Bengaluru, Mumbai vs. Mumbai) and casing inconsistencies in raw records indicate gaps in data collection hygiene.   
 
 [shoppers_stop_demographics_RD.csv](https://github.com/user-attachments/files/33227564/shoppers_stop_demographics_RD.csv)
-[shoppers_stop_demographics_cleaned.csv](https://github.com/user-attachments/files/33227559/shoppers_stop_demographics_cleaned.csv)
-<img width="868" height="469" alt="Screenshot 2026-10-08 183106" src="https://github.com/user-attachments/assets/666174aa-3112-40e8-9ec9-e2e0bce00955" />
-<img width="815" height="449" alt="Screenshot 2026-10-08 183159" src="https://github.com/user-attachments/assets/d569edb6-6a3f-4292-b6bc-2f633abedd09" />
+<img width="915" height="484" alt="Screenshot 2026-10-13 210419" src="https://github.com/user-attachments/assets/b9c1ebba-78e9-4a43-83b8-fc3e90af3234" />
+[Stop & Shop Demographics.csv](https://github.com/user-attachments/files/33411858/Stop.Shop.Demographics.csv)
+
 
 Recommendation: Implement automated validation rules and drop-down menus at point-of-sale (POS) and online registration portals to prevent typos, duplicate city names, and inconsistent formatting at the point of ingestion.
