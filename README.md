@@ -136,9 +136,9 @@ Recommendation: Conduct targeted digital ad campaigns and localized brand partne
 4. Data Governance & Analytics Infrastructure
 Cleanse & Standardize Master Data: Duplicate city records (e.g., Bangalore vs. Bengaluru, Mumbai vs. Mumbai) and casing inconsistencies in raw records indicate gaps in data collection hygiene.   
 
-[shoppers_stop_demographics_RD.csv](https://github.com/user-attachments/files/33227564/shoppers_stop_demographics_RD.csv)
-<img width="915" height="484" alt="Screenshot 2026-10-13 210419" src="https://github.com/user-attachments/assets/b9c1ebba-78e9-4a43-83b8-fc3e90af3234" />
-[Stop & Shop Demographics.csv](https://github.com/user-attachments/files/33411858/Stop.Shop.Demographics.csv)
+<img width="893" height="494" alt="Screenshot 2026-10-18 160423" src="https://github.com/user-attachments/assets/effe94d5-6c2d-42d7-aa3b-43ff5e31fc28" />
+[ST&SP_Demographics.csv](https://github.com/user-attachments/files/33639197/ST.SP_Demographics.csv)
+
 
 
 Recommendation: Implement automated validation rules and drop-down menus at point-of-sale (POS) and online registration portals to prevent typos, duplicate city names, and inconsistent formatting at the point of ingestion.
