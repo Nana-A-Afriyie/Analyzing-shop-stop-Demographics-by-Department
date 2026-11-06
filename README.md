@@ -206,8 +206,8 @@ The Stop & Shop Customer Demographics Dashboard provides insights into customer 
 
 
 <img width="1672" height="941" alt="Stop Shop Demographics Dashboard (1)" src="https://github.com/user-attachments/assets/bc72c278-0ba8-47ff-ba2d-b324b1e357f3" />
-<img width="1672" height="941" alt="Stop Shop Demographics Dashboard" src="https://github.com/user-attachments/assets/bf885d18-36f5-4e02-bd2d-51c49d49332a" />
-<img width="1672" height="941" alt="Stop Shop Demographics Dashboard" src="https://github.com/user-attachments/assets/a29e9bba-09c0-4d45-bbce-b9145b3ade14" />
+<img width="1672" height="941" alt="Stop   Shop Demographics Dashboard" src="https://github.com/user-attachments/assets/74619722-90a8-42a9-b2dd-6a5b7bd3aa04" />
+
 
 [ST&SP_Demographics.csv](https://github.com/user-attachments/files/33639197/ST.SP_Demographics.csv)
 
