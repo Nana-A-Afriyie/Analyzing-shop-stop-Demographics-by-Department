@@ -87,56 +87,128 @@ To prepare the raw CSV data for Power BI dashboard modeling, systematic data cle
 
 ---
 
-## 🖥️ Dashboard Explained (Power BI View)
+**Stop & Shop Customer Demographics Dashboard Explanation**
 
-The Power BI dashboard is structured into three main visual blocks designed for rapid executive review:
-|                         SHOP & STOP DEMOGRAPHICS DASHBOARD                       |
-+---------------------------------------------------------------------------------+
-|  [ KPI 1: 4K Customers ]   [ KPI 2: Avg Income 1.20M ]   [ KPI 3: Avg Age 45.37 ] |
-+------------------------------------+--------------------------------------------+
-|  Annual Income by Membership Tier  |  Customer Count by Marital Status          |
-|  (Bar Chart: Silver/Gold Lead)     |  (Bar Chart: Single/Married Lead)          |
-+------------------------------------+--------------------------------------------+
-|  Customer Count by City            |  Customer Count by Loyalty Tier            |
-|  (Bar Chart: Top Cities)           |  (Bar Chart: Silver > Gold > Platinum)     |
-+------------------------------------+--------------------------------------------+
-|  Sum Age / Customers by Gender     |  Total Customers Onboarded by Year         |
-|  (Stacked Column: 50/50 Split)     |  (Bar Chart: 2018–2026 Trend)              |
-Top Header & KPI Cards:** Highlights macro business metrics including Total Customers (4K), Average Income (1.20M), and Average Age (45.37) for quick snapshot context[cite: 2].
-2. **Loyalty & Financial Breakdown:**
-   * **Sum of Annual Income by Tier (Bar Chart):** Compares total income capacity by loyalty status, identifying Silver and Gold as top drivers[cite: 2].
-   * **Customers by Tier (Bar Chart):** Maps customer distribution across Silver, Gold, Platinum, First Citizen, and non-members
-3. **Demographic & Geographic Panels:**
-   * **Marital Status & Gender Visuals:** Highlights demographic splits across single vs. married consumers and gender parity
-   * **Customer Count by City:** Ranks urban performance from high-volume cities like Pune and Ahmedabad down to smaller hubs
-   * **Yearly Onboarding Trend (2018–2026):** Tracks historical growth consistency over an 8-year span
-   * **Core strategic reccomendation**
-   * 1. Loyalty Program Optimization & Tier Progression
-Capitalize on Mid-Tier Value (Silver & Gold): Silver and Gold members account for over 60% of total customers and generate over ₹3.1bn in combined annual income capacity.   
-Recommendation: Create targeted upgrade campaigns offering double reward points or exclusive perks for 3–6 months to transition active Silver and Gold cardholders into Platinum and First Citizen tiers.
+1. Dashboard Overview
+The Stop & Shop Customer Demographics Dashboard analyzes customer characteristics, membership patterns, and geographic distribution to help the business better understand its customers.
 
-Convert Non-Members ("None" Tier): Over 500 customers currently hold no membership tier.   
-Recommendation: Implement a low-barrier, automated sign-up initiative at checkout (e.g., instant 5% off first order upon joining) to convert non-members into tracked loyalty accounts.
-2. Demographic-Targeted Merchandising & Marketing
-Focus on Core Age Group (Avg. Age ~45 Years): The primary customer base is mature working professionals with mid-to-high annual incomes (~₹1.20M).   
+The dashboard focuses on six areas: customer age, gender, income, membership tiers, yearly customer trends, and city distribution.
+
+It also includes filters for Department, Gender, Age Group, Membership Tier, Year, and City, allowing users to explore specific customer segments.
+2. Dashboard Filters
+The dashboard currently displays the following selections:
+Filter	Selected Value
+Department	Groceries
+Gender	Female
+Age Group	30–39
+Membership Tier	All
+Year	All
+City	All
+
+These filters are intended to allow users to examine particular customer groups and understand their characteristics.
+3. Key Performance Indicators (KPIs)
+Average Age34.27
+Years
 
 
-Recommendation: Tailor marketing campaigns around premium quality, durability, career apparel, home goods, and health/wellness product lines rather than discount-heavy fast fashion.
+Total Customers658
+Customers
 
-Leverage Household & Lifestyle Bundles: Single and Married consumers form over 70% of the customer base.   
-Recommendation: Offer dual-person or family reward packages, weekend shopping events, and targeted promotions on home essentials, kitchenware, and seasonal gifting.
 
-3. Geographic & Regional Expansion Strategy
-Nurture High-Volume Regional Hubs: Cities like Pune, Ahmedabad, Kolkata, Chennai, and Hyderabad show strong customer density (~500–600 customers per city).   
-Recommendation: Strengthen localized marketing, store inventory availability, and regional promotional events in these top 5 high-density cities.
+Average Income$1.18M
+Displayed value
 
-Target Low-Penetration Metros: Markets like Mumbai, Bangalore, and New Delhi exhibit relatively lower customer volume in this dataset despite being major metropolitan hubs.   
-Recommendation: Conduct targeted digital ad campaigns and localized brand partnerships in these underperforming metro regions to capture untapped market share.
 
-4. Data Governance & Analytics Infrastructure
-Cleanse & Standardize Master Data: Duplicate city records (e.g., Bangalore vs. Bengaluru, Mumbai vs. Mumbai) and casing inconsistencies in raw records indicate gaps in data collection hygiene.   
 
-<img width="893" height="494" alt="Screenshot 2026-10-18 160423" src="https://github.com/user-attachments/assets/effe94d5-6c2d-42d7-aa3b-43ff5e31fc28" />
+The KPI cards provide a quick overview of the selected customer segment. The average age is 34.27 years, while the total customer count is 658. The dashboard also displays an average income of $1.18 million, although the income calculation and unit should be verified.
+4. Dashboard Visual Analysis
+A. Total Customers by Gender
+The donut chart displays the gender distribution:
+- Female: 341 customers (51.8%)
+- Male: 317 customers (48.2%)
+The chart suggests that female customers slightly outnumber male customers, although the difference is relatively small.
+B. Total Customers by Age Group
+The age-group chart highlights the 30–39 category with 658 customers.
+
+This suggests that customers aged 30–39 represent an important demographic segment in the displayed analysis.
+C. Total Customers by Membership Tier
+Silver
+
+236 (35.9%)
+
+
+
+
+Gold
+
+200 (30.4%)
+
+
+
+
+Platinum
+
+104 (15.8%)
+
+
+
+
+First Citizen
+
+68 (10.3%)
+
+
+
+
+Unknown
+
+50 (7.6%)
+
+
+
+
+
+Silver membership has the highest customer count, followed by Gold. Together, these two categories represent 66.3% of the displayed customers.
+
+This indicates that Silver and Gold membership segments deserve attention when developing customer loyalty and retention strategies.
+D. Total Customers by Year
+The chart tracks customer counts from 2018 to 2026.
+- 2023 recorded the highest displayed count of 104 customers.
+- Customer counts fluctuate across the reporting years.
+- 2026 shows the lowest count at 18, although this may represent incomplete-year data.
+These variations can help the business investigate changes in customer acquisition and engagement.
+E. Total Customers by City
+Pune has the highest displayed customer count at 110, followed by Ahmedabad at 98 and Kolkata at 95.
+
+This suggests that these cities represent important customer locations within the displayed data and could be considered for targeted marketing campaigns.
+
+**. Key Findings**
+1. The selected dashboard view highlights 658 customers, with an average age of 34.27 years.
+2. Female customers slightly outnumber male customers in the displayed gender breakdown.
+3. Silver and Gold are the leading membership categories.
+4. Customer counts vary across years, with 2023 showing the highest displayed count.
+5. Pune, Ahmedabad, and Kolkata lead the city distribution.
+   
+**Business Recommendations**
+
+Improve customer targeting: Develop marketing strategies based on customer age groups, purchasing behavior, and department preferences.
+
+Strengthen membership programs: Introduce personalized offers and rewards to improve Silver and Gold member retention.
+
+Focus on important locations: Investigate customer demand in Pune, Ahmedabad, and Kolkata to identify opportunities for business growth.
+
+Monitor customer trends: Analyze yearly changes in customer counts to understand acquisition, retention, and possible seasonal patterns.
+
+Improve customer segmentation: Use demographic filters to compare customer groups and support better business decisions.
+**. Conclusion**
+
+The Stop & Shop Customer Demographics Dashboard provides insights into customer characteristics, membership patterns, and geographic distribution. By analyzing these metrics, the business can identify important customer segments, improve marketing strategies, and support customer retention initiatives.
+
+
+<img width="1672" height="941" alt="Stop Shop Demographics Dashboard (1)" src="https://github.com/user-attachments/assets/bc72c278-0ba8-47ff-ba2d-b324b1e357f3" />
+<img width="1672" height="941" alt="Stop Shop Demographics Dashboard" src="https://github.com/user-attachments/assets/bf885d18-36f5-4e02-bd2d-51c49d49332a" />
+<img width="1672" height="941" alt="Stop Shop Demographics Dashboard" src="https://github.com/user-attachments/assets/a29e9bba-09c0-4d45-bbce-b9145b3ade14" />
+
 [ST&SP_Demographics.csv](https://github.com/user-attachments/files/33639197/ST.SP_Demographics.csv)
 
 
