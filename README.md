@@ -4,6 +4,8 @@ This project analyzes customer demographic, income, location, and loyalty tier d
 
 ## 📌 Introduction
 This project provides an end-to-end exploratory data analysis (EDA) and demographic segmentation for **Shop & Stop**, a major retail department store chain. By analyzing customer demographics, income distributions, geographical spread, and loyalty program participation, this project aims to uncover key consumer traits, evaluate loyalty program ROI, and identify high-value customer segments to inform targeted marketing and retention strategies.
+<img width="1672" height="941" alt="Stop Shop Demographics Dashboard (1)" src="https://github.com/user-attachments/assets/bc72c278-0ba8-47ff-ba2d-b324b1e357f3" />
+<img width="1672" height="941" alt="Stop   Shop Demographics Dashboard" src="https://github.com/user-attachments/assets/74619722-90a8-42a9-b2dd-6a5b7bd3aa04" />
 
 ---
 
@@ -203,10 +205,6 @@ Improve customer segmentation: Use demographic filters to compare customer group
 **. Conclusion**
 
 The Stop & Shop Customer Demographics Dashboard provides insights into customer characteristics, membership patterns, and geographic distribution. By analyzing these metrics, the business can identify important customer segments, improve marketing strategies, and support customer retention initiatives.
-
-
-<img width="1672" height="941" alt="Stop Shop Demographics Dashboard (1)" src="https://github.com/user-attachments/assets/bc72c278-0ba8-47ff-ba2d-b324b1e357f3" />
-<img width="1672" height="941" alt="Stop   Shop Demographics Dashboard" src="https://github.com/user-attachments/assets/74619722-90a8-42a9-b2dd-6a5b7bd3aa04" />
 
 
 [ST&SP_Demographics.csv](https://github.com/user-attachments/files/33639197/ST.SP_Demographics.csv)
